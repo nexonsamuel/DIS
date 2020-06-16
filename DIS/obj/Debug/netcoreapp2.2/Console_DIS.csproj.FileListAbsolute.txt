@@ -1,0 +1,11 @@
+/home/nexon72/Downloads/DIS/Console_DIS/bin/Debug/netcoreapp2.2/Console_DIS.deps.json
+/home/nexon72/Downloads/DIS/Console_DIS/bin/Debug/netcoreapp2.2/Console_DIS.runtimeconfig.json
+/home/nexon72/Downloads/DIS/Console_DIS/bin/Debug/netcoreapp2.2/Console_DIS.runtimeconfig.dev.json
+/home/nexon72/Downloads/DIS/Console_DIS/bin/Debug/netcoreapp2.2/Console_DIS.dll
+/home/nexon72/Downloads/DIS/Console_DIS/bin/Debug/netcoreapp2.2/Console_DIS.pdb
+/home/nexon72/Downloads/DIS/Console_DIS/obj/Debug/netcoreapp2.2/Console_DIS.csprojAssemblyReference.cache
+/home/nexon72/Downloads/DIS/Console_DIS/obj/Debug/netcoreapp2.2/Console_DIS.csproj.CoreCompileInputs.cache
+/home/nexon72/Downloads/DIS/Console_DIS/obj/Debug/netcoreapp2.2/Console_DIS.AssemblyInfoInputs.cache
+/home/nexon72/Downloads/DIS/Console_DIS/obj/Debug/netcoreapp2.2/Console_DIS.AssemblyInfo.cs
+/home/nexon72/Downloads/DIS/Console_DIS/obj/Debug/netcoreapp2.2/Console_DIS.dll
+/home/nexon72/Downloads/DIS/Console_DIS/obj/Debug/netcoreapp2.2/Console_DIS.pdb

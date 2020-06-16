@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Line Chart Test</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+  <script language="JavaScript"><!--
+  function displayLineChart() {
+    var chart = {
+        labels: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        datasets: [
+            {
+                label: "Prime and Fibonacci",
+                fillColor: "red",
+                data: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
+            },
+            {
+                label: "My Second dataset",
+                fillColor: "blue",
+                data: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+            }
+        ]
+    };
+    var ctx = document.getElementById("lineChart").getContext("2d");
+    var options = { };
+    var lineChart = new Chart(ctx).Line(chart, options);
+  }
+  --></script>
+</head>
+<body onload="displayLineChart();">
+  <div class="box">
+    <canvas id="lineChart" height="450" width="800"></canvas>
+  </div>
+</body>
+</html>
